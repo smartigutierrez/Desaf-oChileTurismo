@@ -1,0 +1,24 @@
+.navbar2 {
+    background-color: transparent;
+    position: fixed;
+}
+body{
+    background-color: black !important;
+    color:white;
+}
+footer{
+    background-color: teal;
+}
+.card{
+    background-color: teal;
+    color: white;
+}
+.footer{
+    background-color: teal;
+    text-align: justify;
+
+
+}
+#footer{
+    background-color: teal;
+}
